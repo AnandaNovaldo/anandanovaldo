@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Typescript, React Native, Next Js.
+- 🌱 I’m currently learning React Native, TypeScript, Next Js.
 
 - 🤝 I’m looking to collaborate on any open-source projects related to React and TypeScript.
 
